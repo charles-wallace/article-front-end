@@ -11,3 +11,68 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+/* .search-type p {
+	font-size: 14px;
+	color: #61616e;
+	font-weight: 300;
+	margin-bottom: 20px;
+} */
+
+/* .search-type .filter-option {
+
+	border-bottom: 1px solid #E7E7E7;
+	float: none;
+	margin-top: -10px;
+	height: 34px;
+	line-height: 34px;
+
+} */
+
+/* .search-type .filter-option:after {
+	border-bottom: 2px solid #3F3F4B;
+	border-right: 2px solid #3F3F4B;
+	height: 7px;
+	width: 7px;
+} */
+
+.list-info {
+	padding-right: '5px'
+}
+
+.filter-row {
+	background-color: #e6e9f0;
+	height: 150px;
+}
+
+.filter-column {
+	padding-top: 25px;
+	padding-bottom: 10px;
+}
+/*
+	Dark Space: #343d46
+	Lighter Dark Space: #4f5b66
+	Bluish Space: 	#65737e
+
+*/
+.filter-title {
+	font-size: 20px;
+	color: #343d46;
+	font-weight: 600;
+}
+
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+
+}
